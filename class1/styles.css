@@ -1,0 +1,22 @@
+img
+{
+    width: 200px;
+}
+
+a
+{
+    color: pink;
+    display: block;
+}
+nav
+{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.centerd_image
+{
+    display: block;
+    margin: 0 auto;
+    border-radius: 60%;
+}
